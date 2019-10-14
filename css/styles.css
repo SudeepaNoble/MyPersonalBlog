@@ -110,7 +110,7 @@ a:hover
   background-image: -o-linear-gradient(top, #11CDD4, #11999E);
   background-image: linear-gradient(to bottom, #11CDD4, #11999E);
   -webkit-border-radius: 8;
-  -moz-border-radius: 8;
+  -moz-border-radius: 38;
   border-radius: 8px;
   font-family: 'Montserrat', sans-serif;
   color: #ffffff;
